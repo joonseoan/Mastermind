@@ -10,4 +10,4 @@
 ![Success](./success.PNG)
 
 ##### - Show the randomly generated answer at the top of the table if the user faies to put the correct 4 digit numbers.
-![Success](./success.PNG)
+![Success](./Fail.PNG)
